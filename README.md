@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+I'm an embedded / IoT engineer.
+
+- Interested in Linux-based edge systems
+- Interested in energy management systems and their integration with edge devices
+- Enjoy investigating issues and improving documentation
+- Occasionally contribute to open-source projects related to energy and IoT
+- Personal account (not affiliated with any company)
+
+Previously active as @110662.
+
+Note: I also have a separate account used for work-related repositories.
 <!--
 **toshiaki-sato9/toshiaki-sato9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
