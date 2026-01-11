@@ -11,6 +11,8 @@ I'm an embedded / IoT engineer.
 Previously active as @110662.
 
 Note: I also have a separate account used for work-related repositories.
+
+Feel free to open an issue or start a discussion if you have any questions or ideas.
 <!--
 **toshiaki-sato9/toshiaki-sato9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
